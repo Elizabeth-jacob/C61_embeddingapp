@@ -1,0 +1,30 @@
+body
+{
+    text-align: center;
+    background-color: beige;
+}
+.line
+{
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+h1
+{
+    font-size: 40px;
+    font-family:cursive;
+    font-weight: 300;
+}
+#Apps
+{
+    background-color:lightgoldenrodyellow;
+}
+#Games
+{
+    background-color:navajowhite;
+}
+#Chat_Bot
+{
+    background-color: burlywood;
+}
